@@ -1,0 +1,13 @@
+{
+  "name": "office-bancao-sa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Escritório isométrico no navegador para acompanhar e operar seus agentes de IA: cada agente tem uma mesa, e o computador dele abre o sistema dele.",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
